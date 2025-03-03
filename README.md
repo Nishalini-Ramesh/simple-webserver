@@ -22,7 +22,7 @@ Serving the HTML pages.
 Testing the webserver.
 
 ## PROGRAM:
-'''html
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -63,10 +63,10 @@ Testing the webserver.
     <p>30 x 10 = 300</p>
 </body>
 </html>
-'''
+```
 
 ## OUTPUT:
-![Output]('./static/ss.png')
+![Output](./static/ss.png)
 
 
 ## RESULT:
